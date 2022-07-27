@@ -1,0 +1,21 @@
+{
+    "name": "night-owl",
+    "displayName": "Night Owl",
+    "description": "night owl theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Night Owl",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Night Owl-color-theme.json"
+            }
+        ]
+    }
+}
